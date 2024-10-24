@@ -5,3 +5,7 @@ git commit -a -m
 am sure it would work now perfecting...
 lets see if the working tree is going to m=be clean 
 by the above command.
+
+Updating this file with more lines of supposed code
+I will soon be typing python code like this
+very fluently
